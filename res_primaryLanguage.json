@@ -1,0 +1,105 @@
+{
+    "basic_info": {
+      "description_header": "Salut",
+      "description": "🌟 Je suis Allan Rivoiron, un développeur front-end animé par la passion du codage et le désir d'apprendre. J'utilise principalement React pour créer des interfaces utilisateurs intuitives et attrayantes. Ce portfolio est une fenêtre ouverte sur mon parcours, mes compétences et ma poursuite constante de l'innovation. Si mon travail éveille votre curiosité, n'hésitez pas à me contacter pour discuter de vos projets. Votre prochain projet mérite le meilleur, et je suis là pour le réaliser. 🚀",
+      "section_name": {
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Formations"
+      }
+    },
+    "projects": [
+      {
+        "title": "Kasa - Location immobilière",
+        "startDate": "2023",
+        "description": "Le projet Kasa a constitué une partie importante de mon évolution professionnelle. Évoluant sur le marché de la location immobilière entre particuliers depuis près d'une décennie, Kasa est reconnu comme un acteur majeur du marché français avec plus de 500 annonces publiées quotidiennement. Ma contribution à ce projet m'a permis d'approfondir mon ensemble de compétences technologiques et de profiter des conseils d'un mentor exceptionnel. Nos efforts conjoints ont donné naissance à un système qui simplifie le processus de location dans son intégralité, offrant une plateforme fiable pour un marché dynamique et en perpétuelle évolution.",
+        "images": [
+          "images/portfolio/kasa/p1.png",
+          "images/portfolio/kasa/p2.png"
+        ],
+        "url": "https://github.com/arivoiro/projet8-oc",
+        "technologies": [
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Site Portfolio d'Architecte",
+        "startDate": "2023",
+        "description": "Dans mon rôle de développeur front-end chez ArchiWebos, une agence axée sur le web comptant 50 employés, j'ai rejoint un projet dédié à la création d'un site portfolio pour une architecte d'intérieur. Cette mission m'a permis d'approfondir ma maîtrise de JavaScript, en me concentrant sur le développement d'une interface utilisateur élégante et réactive. Mon travail a contribué à la réalisation d'un site qui met en valeur visuellement les projets de l'architecte et qui fournit également une navigation fluide et intuitive, reflétant la sophistication et l'innovation de nos conceptions.",
+        "images": [
+          "images/portfolio/portfolio-website/p1.png",
+          "images/portfolio/portfolio-website/p2.png"
+        ],
+        "url": "https://github.com/arivoiro/Projet6",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "ArgentBank - Banque en Ligne",
+        "startDate": "2023",
+        "description": "Mon dernier projet en tant que développeur front-end s'est déroulé chez Argent Bank, une banque en ligne en plein essor souhaitant s'implanter solidement dans le secteur bancaire. Ce projet a été le plus marquant de ma carrière, me fournissant l'occasion de raffiner mes compétences en React. J'ai participé au développement d'une plateforme bancaire en ligne sécurisée et conviviale, en mettant l'accent sur une interface utilisateur soignée et des fonctionnalités interactives pour assurer une expérience client sans accroc et sécurisée.",
+        "images": [
+          "images/portfolio/argent-bank/p1.png",
+          "images/portfolio/argent-bank/p2.png"
+        ],
+        "url": "https://github.com/arivoiro/projet11",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "company": "OpenClassroom",
+        "title": "Intégrateur Web",
+        "years": "02.2023 - 11.2023",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "API REST",
+          "JavaScript",
+          "Sass",
+          "Figma",
+          "HTML 5",
+          "CSS 3"
+        ]
+      }
+    ]
+  }
