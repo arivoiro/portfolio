@@ -6,47 +6,28 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "courses": "Courses"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Kasa - Real estate rental",
+        "startDate": "2023",
+        "description": "The Kasa project has been a significant part of my professional journey. Operating in the private real estate rental market for nearly a decade, Kasa is recognized as a prominent player in the French market, boasting over 500 daily listings. Contributing to this project, I was able to deepen my technological skill set and benefit from the guidance of an outstanding mentor. Our collaborative efforts resulted in a system that streamlines the entire rental process, offering a reliable platform for a dynamic and steadily evolving marketplace.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/kasa/p1.png",
+          "images/portfolio/kasa/p2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
+          
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-sass-original",
+            "name": "Sass"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,31 +36,55 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Portfolio Website",
+        "startDate": "2023",
+        "description": "In my role as a front-end developer at ArchiWebos, a web-focused agency with a team of 50, I joined a project dedicated to creating a portfolio website for an interior designer. This mission allowed me to deepen my mastery of JavaScript, focusing on the development of an elegant and responsive user interface. My work contributed to the production of a site that not only visually showcases the architect's achievements but also provides smooth and intuitive navigation, reflecting the sophistication and innovation of our designs.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/portfolio-website/p1.png",
+          "images/portfolio/portfolio-website/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "ArgentBank - Online Bank",
+        "startDate": "2023",
+        "description": "My most recent project as a front-end developer took place at Argent Bank, an innovative online bank aiming to establish a strong foothold in the banking industry. This project stood out as the most significant of my career, providing me with the opportunity to refine my React skills. I contributed to the development of a secure and user-friendly online banking platform, focusing on a polished user interface and interactive features to ensure a seamless and secure customer experience.",
+        "images": [
+          "images/portfolio/argent-bank/p1.png",
+          "images/portfolio/argent-bank/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [ 
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
           }
         ]
       }
     ],
-    "experience": [
+    "courses": [
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
