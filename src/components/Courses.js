@@ -6,11 +6,11 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
-class Formations extends Component {
+class Courses extends Component {
   render() {
-    if (this.props.resumeFormations && this.props.resumeBasicInfo) {
-      var sectionName = this.props.resumeBasicInfo.section_name.formations;
-      var work = this.props.resumeFormations.map(function (work, i) {
+    if (this.props.resumeCourses && this.props.resumeBasicInfo) {
+      var sectionName = this.props.resumeBasicInfo.section_name.courses;
+      var work = this.props.resumeCourses.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
 
@@ -23,7 +23,7 @@ class Formations extends Component {
         });
         var tech = technologies.map((technology, i) => {
           return (
-            <Badge pill className="formations-badge mr-2 mb-2" key={i}>
+            <Badge pill className="courses-badge mr-2 mb-2" key={i}>
               {technology}
             </Badge>
           );
@@ -37,7 +37,7 @@ class Formations extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular formations-icon"></i>}
+            icon={<i className="fab fa-angular courses-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
@@ -83,7 +83,7 @@ class Formations extends Component {
                 textAlign: "center",
               }}
               icon={
-                <i className="fas fa-hourglass-start mx-auto formations-icon"></i>
+                <i className="fas fa-hourglass-start mx-auto courses-icon"></i>
               }
             />
           </VerticalTimeline>
@@ -93,4 +93,4 @@ class Formations extends Component {
   }
 }
 
-export default Formations;
+export default Courses;

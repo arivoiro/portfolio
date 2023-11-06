@@ -4,7 +4,7 @@ import "./App.scss";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
-import Formations from "./components/Formations";
+import Courses from "./components/Courses";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
@@ -129,8 +129,8 @@ class App extends Component {
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        <Formations
-          resumeFormations={this.state.resumeData.formations}
+        <Courses
+          resumeCourses={this.state.resumeData.courses}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />

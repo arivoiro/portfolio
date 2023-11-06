@@ -21,17 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          
-          {
             "class": "devicon-sass-original",
             "name": "Sass"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
           }
         ]
       },
@@ -86,37 +85,20 @@
     ],
     "courses": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "OpenClassroom",
+        "title": "Web Integrator",
+        "years": "02.2023 - 11.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
+          "React",
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Sass",
+          "Figma",
+          "HTML 5",
+          "CSS 3"
         ]
       }
     ]
