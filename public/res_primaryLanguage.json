@@ -18,7 +18,7 @@
           "images/portfolio/kasa/p1.png",
           "images/portfolio/kasa/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/arivoiro/projet8-oc",
         "technologies": [
           {
             "class": "devicon-sass-original",
@@ -42,7 +42,7 @@
           "images/portfolio/portfolio-website/p1.png",
           "images/portfolio/portfolio-website/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/arivoiro/Projet6",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -66,7 +66,7 @@
           "images/portfolio/argent-bank/p1.png",
           "images/portfolio/argent-bank/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/arivoiro/projet11",
         "technologies": [ 
           {
             "class": "devicon-css3-plain",
