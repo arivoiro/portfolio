@@ -2,6 +2,7 @@
     "basic_info": {
       "description_header": "Salut",
       "description": "🌟 Je suis Allan Rivoiron, un développeur front-end animé par la passion du codage et le désir d'apprendre. J'utilise principalement React pour créer des interfaces utilisateurs intuitives et attrayantes. Ce portfolio est une fenêtre ouverte sur mon parcours, mes compétences et ma poursuite constante de l'innovation. Si mon travail éveille votre curiosité, n'hésitez pas à me contacter pour discuter de vos projets. Votre prochain projet mérite le meilleur, et je suis là pour le réaliser. 🚀",
+      "titles": [ "Développeur Front-end", "Intégrateur Web"],
       "section_name": {
         "about": "À propos de moi",
         "projects": "Projets",

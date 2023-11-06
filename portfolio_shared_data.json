@@ -1,7 +1,6 @@
 {
     "basic_info": {
       "name": "Rivoiron Allan",
-      "titles": [ "Front-end Developer", "Web Integrator"],
       "social": [
         {
           "name": "github",
@@ -29,24 +28,44 @@
           "level": "95"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
         },
         {
-          "name": "Figma",
-          "class": "devicon-figma-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "50"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
           "name": "React",
           "class": "devicon-react-plain",
           "level": "60"
+        },
+        {
+          "name": "VSCode",
+          "class": "devicon-vscode-plain",
+          "level": "80"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "70"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "70"
         }
       ]
     }
