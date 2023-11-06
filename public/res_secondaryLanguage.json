@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Salut",
-      "description": "🌟 Je suis Allan Rivoiron, un développeur front-end animé par la passion du codage et le désir d'apprendre. J'utilise principalement React pour créer des interfaces utilisateurs intuitives et attrayantes. Ce portfolio est une fenêtre ouverte sur mon parcours, mes compétences et ma poursuite constante de l'innovation. Si mon travail éveille votre curiosité, n'hésitez pas à me contacter pour discuter de vos projets. Votre prochain projet mérite le meilleur, et je suis là pour le réaliser. 🚀",
+      "description_header": "Hi",
+      "description": "🌟 I'm Allan Rivoiron, a front-end developer driven by a passion for coding and a desire to learn. I mainly use React to create intuitive and appealing user interfaces. This portfolio is an open window to my journey, skills, and ongoing pursuit of innovation. If my work piques your interest, please don't hesitate to contact me to discuss your ideas. Your next project deserves the best, and I'm here to deliver it. 🚀",
       "section_name": {
-        "about": "À propos de moi",
-        "projects": "Projets",
-        "skills": "Compétences",
-        "experience": "Formations"
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "courses": "Courses"
       }
     },
     "projects": [
       {
-        "title": "Kasa - Location immobilière",
+        "title": "Kasa - Real estate rental",
         "startDate": "2023",
-        "description": "Le projet Kasa a constitué une partie importante de mon évolution professionnelle. Évoluant sur le marché de la location immobilière entre particuliers depuis près d'une décennie, Kasa est reconnu comme un acteur majeur du marché français avec plus de 500 annonces publiées quotidiennement. Ma contribution à ce projet m'a permis d'approfondir mon ensemble de compétences technologiques et de profiter des conseils d'un mentor exceptionnel. Nos efforts conjoints ont donné naissance à un système qui simplifie le processus de location dans son intégralité, offrant une plateforme fiable pour un marché dynamique et en perpétuelle évolution.",
+        "description": "The Kasa project has been a significant part of my professional journey. Operating in the private real estate rental market for nearly a decade, Kasa is recognized as a prominent player in the French market, boasting over 500 daily listings. Contributing to this project, I was able to deepen my technological skill set and benefit from the guidance of an outstanding mentor. Our collaborative efforts resulted in a system that streamlines the entire rental process, offering a reliable platform for a dynamic and steadily evolving marketplace.",
         "images": [
           "images/portfolio/kasa/p1.png",
           "images/portfolio/kasa/p2.png"
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Site Portfolio d'Architecte",
+        "title": "Portfolio Website",
         "startDate": "2023",
-        "description": "Dans mon rôle de développeur front-end chez ArchiWebos, une agence axée sur le web comptant 50 employés, j'ai rejoint un projet dédié à la création d'un site portfolio pour une architecte d'intérieur. Cette mission m'a permis d'approfondir ma maîtrise de JavaScript, en me concentrant sur le développement d'une interface utilisateur élégante et réactive. Mon travail a contribué à la réalisation d'un site qui met en valeur visuellement les projets de l'architecte et qui fournit également une navigation fluide et intuitive, reflétant la sophistication et l'innovation de nos conceptions.",
+        "description": "In my role as a front-end developer at ArchiWebos, a web-focused agency with a team of 50, I joined a project dedicated to creating a portfolio website for an interior designer. This mission allowed me to deepen my mastery of JavaScript, focusing on the development of an elegant and responsive user interface. My work contributed to the production of a site that not only visually showcases the architect's achievements but also provides smooth and intuitive navigation, reflecting the sophistication and innovation of our designs.",
         "images": [
           "images/portfolio/portfolio-website/p1.png",
           "images/portfolio/portfolio-website/p2.png"
@@ -59,15 +59,15 @@
         ]
       },
       {
-        "title": "ArgentBank - Banque en Ligne",
+        "title": "ArgentBank - Online Bank",
         "startDate": "2023",
-        "description": "Mon dernier projet en tant que développeur front-end s'est déroulé chez Argent Bank, une banque en ligne en plein essor souhaitant s'implanter solidement dans le secteur bancaire. Ce projet a été le plus marquant de ma carrière, me fournissant l'occasion de raffiner mes compétences en React. J'ai participé au développement d'une plateforme bancaire en ligne sécurisée et conviviale, en mettant l'accent sur une interface utilisateur soignée et des fonctionnalités interactives pour assurer une expérience client sans accroc et sécurisée.",
+        "description": "My most recent project as a front-end developer took place at Argent Bank, an innovative online bank aiming to establish a strong foothold in the banking industry. This project stood out as the most significant of my career, providing me with the opportunity to refine my React skills. I contributed to the development of a secure and user-friendly online banking platform, focusing on a polished user interface and interactive features to ensure a seamless and secure customer experience.",
         "images": [
           "images/portfolio/argent-bank/p1.png",
           "images/portfolio/argent-bank/p2.png"
         ],
         "url": "https://github.com/arivoiro/projet11",
-        "technologies": [
+        "technologies": [ 
           {
             "class": "devicon-css3-plain",
             "name": "CSS 3"
@@ -86,14 +86,14 @@
     "courses": [
       {
         "company": "OpenClassroom",
-        "title": "Intégrateur Web",
+        "title": "Web Integrator",
         "years": "02.2023 - 11.2023",
         "mainTech": [
           "React"
         ],
         "technologies": [
           "React",
-          "API REST",
+          "REST API",
           "JavaScript",
           "Sass",
           "Figma",
