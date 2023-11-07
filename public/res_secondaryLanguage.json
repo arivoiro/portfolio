@@ -93,13 +93,40 @@
           "React"
         ],
         "technologies": [
-          "React",
-          "REST API",
-          "JavaScript",
-          "Sass",
-          "Figma",
           "HTML 5",
-          "CSS 3"
+          "CSS 3",
+          "Sass",
+          "JavaScript",
+          "React",
+          "API REST",
+          "Swagger",
+          "Figma"
+        ]
+      },
+      {
+        "company": "Branly High School",
+        "title": "Preparatory class for grandes écoles EIS",
+        "years": "2020 - 2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Mathematics",
+          "Engineering Sciences"
+        ]
+      },
+      {
+        "company": "Branly High School",
+        "title": "Baccalaureate STISD",
+        "years": "2020",
+        "mainTech": [
+          "With highest honors"
+        ],
+        "technologies": [
+          "HTML 5",
+          "CSS 3",
+          "JavaScript"
         ]
       }
     ]

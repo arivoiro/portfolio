@@ -93,13 +93,40 @@
           "React"
         ],
         "technologies": [
+          "HTML 5",
+          "CSS 3",
+          "Sass",
+          "JavaScript",
           "React",
           "API REST",
-          "JavaScript",
-          "Sass",
-          "Figma",
+          "Swagger",
+          "Figma"
+        ]
+      },
+      {
+        "company": "Lycée Branly",
+        "title": "Classe préparatoire aux grandes écoles TSI",
+        "years": "2020 - 2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Maths",
+          "Sciences de l'ingénieur"
+        ]
+      },
+      {
+        "company": "Lycée Branly",
+        "title": "Baccalauréat STI2D",
+        "years": "2020",
+        "mainTech": [
+          "Mention très bien"
+        ],
+        "technologies": [
           "HTML 5",
-          "CSS 3"
+          "CSS 3",
+          "JavaScript"
         ]
       }
     ]
