@@ -37,7 +37,7 @@ class Courses extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-react courses-icon"></i>}
+            icon={<i className="fas fa-solid fa-graduation-cap courses-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
