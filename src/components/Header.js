@@ -13,7 +13,7 @@ const Header = ({ sharedData, resumeData }) => {
   }, [isDarkMode]);
 
   const titles = resumeData ? resumeData.titles.map((x) => [x.toUpperCase(), 1500]).flat() : [];
-  const name = sharedData ? sharedData.name : '???';
+  const name = sharedData ? sharedData.name : '';
 
   const HeaderTitleTypeAnimation = React.memo(() => {
     return <Typical className="title-styles" steps={titles} loop={50} />;
