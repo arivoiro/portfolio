@@ -4,4 +4,4 @@ Ce portfolio présente mes projets et compétences en développement web. Il est
 
 Pour toute suggestion ou demande de collaboration, veuillez me contacter.
 
-Découvrez mon portfolio ici : https://arivoiro.github.io/portfolio-projet12/
+Découvrez mon portfolio ici : https://arivoiro.github.io/portfolio/
