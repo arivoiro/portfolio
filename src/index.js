@@ -6,9 +6,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 /* GLOBAL VARIABLES */
 
-window.$primaryLanguage = 'fr';
-window.$secondaryLanguage = 'en';
-window.$primaryLanguageIconId = 'primary-lang-icon';
-window.$secondaryLanguageIconId = 'secondary-lang-icon';
+window.$primaryLanguage = 'en';
+window.$secondaryLanguage = 'fr';
+window.$primaryLanguageIconId = 'secondary-lang-icon';
+window.$secondaryLanguageIconId = 'primary-lang-icon';
 
 ReactDOM.render(<App />, document.getElementById('root'));
