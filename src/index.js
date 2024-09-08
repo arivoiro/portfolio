@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 window.$primaryLanguage = 'en';
 window.$secondaryLanguage = 'fr';
-window.$primaryLanguageIconId = 'secondary-lang-icon';
-window.$secondaryLanguageIconId = 'primary-lang-icon';
+window.$primaryLanguageIconId = 'primary-lang-icon';
+window.$secondaryLanguageIconId = 'secondary-lang-icon';
 
 ReactDOM.render(<App />, document.getElementById('root'));
